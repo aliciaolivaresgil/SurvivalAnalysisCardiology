@@ -1,2 +1,3 @@
 data/*.df
 results/tuned_params*.pk
+!data/*toy*
