@@ -6,7 +6,8 @@ It is a study that evaluates statistical and machine learning methods for surviv
 
 ## Requirements
 ### Data
-TODO 
+Notebook `Toy_data_generation.ipynb` generates a toy dataset with the same structure as the one used in the study so the code in this repository can be tested. The actual data used in our study are available from the corresponding author upon reasonable request.
+
 ### Conda environment 
 All the Python code was executed using the conda environment available in this repository. 
 To install this conda environment: 
